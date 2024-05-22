@@ -1,2 +1,2 @@
 # GUI-Calculator-
-Simple GUI Calculator in Python
+GUI Calculator in Python
