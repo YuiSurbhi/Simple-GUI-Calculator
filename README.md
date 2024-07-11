@@ -18,10 +18,24 @@ A graphical user interface (GUI) calculator application built using Python and T
 ▫️ **Python 3.x**<br>
 ▫️ **Tkinter**: Standard GUI library for Python<br>
 
+## Installation 🚀
+
+1. Clone the repository:<br>
+
+       git clone https://github.com/YuiSurbhi/GUI-Calculator.git
+
+2. Navigate to the project directory:<br>
+
+       cd GUI-calculator
+
+3. Run the application:<br>
+
+       python main.py
+
 ## Usage 🎯
 
 1. Enter numbers and click on the operation buttons to perform calculations.<br>
-2. Use operation buttons ('+', '-', '*', '/') to perform calculations.
+2. Use operation buttons (' + ', ' - ', ' * ', ' / ') to perform calculations.
 3. Press "=" button to obtain the result.
 4. Use the "CE" button to clear the input field.<br>
 5. Enjoy calculating with a simple and intuitive interface!<br>
