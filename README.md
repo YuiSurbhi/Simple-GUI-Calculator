@@ -1,4 +1,4 @@
-# GUI Calculator 🧮
+# Simple GUI Calculator 🧮
 
 A graphical user interface (GUI) calculator application built using Python and Tkinter.<br>
 
@@ -11,34 +11,49 @@ A graphical user interface (GUI) calculator application built using Python and T
 
 ## Screenshot 
 
- ![calculator](https://github.com/YuiSurbhi/GUI-Calculator-/assets/163987279/6077d142-bf66-422b-88d2-68ea137c764c)
+ Here is the screenshot of the application in action:<br>
+  
+   ![calculator](https://github.com/YuiSurbhi/GUI-Calculator-/assets/163987279/6077d142-bf66-422b-88d2-68ea137c764c)
 
 ## Technologies Used 🖥️
 
-▫️ **Python 3.x**<br>
-▫️ **Tkinter**: Standard GUI library for Python<br>
+▫️ **Language**: Python <br>
+▫️ **Framework**: Tkinter (Standard GUI library for Python)<br>
 
 ## Installation 🚀
 
+### Prerequisites
+
+Make sure you have the following installed on your machine:<br>
+
+▫️ Python 3.x
+
+### Step to Install 
+
 1. Clone the repository:<br>
 
-       git clone https://github.com/YuiSurbhi/GUI-Calculator.git
+       git clone https://github.com/YuiSurbhi/Simple-GUI-Calculator.git
 
 2. Navigate to the project directory:<br>
 
-       cd GUI-calculator
+       cd Simple-GUI-calculator
 
-3. Run the application:<br>
+3. Install Dependencies:<br>
+
+       pip install Tkinter
+
+4. Run the application:<br>
 
        python main.py
 
 ## Usage 🎯
 
-1. Enter numbers and click on the operation buttons to perform calculations.<br>
-2. Use operation buttons (' + ', ' - ', ' * ', ' / ') to perform calculations.
-3. Press "=" button to obtain the result.
-4. Use the "CE" button to clear the input field.<br>
-5. Enjoy calculating with a simple and intuitive interface!<br>
+1. Open the application by running 'main.py'
+2. Enter numbers and click on the operation buttons to perform calculations.<br>
+3. Use operation buttons (' + ', ' - ', ' * ', ' / ') to perform calculations.
+4. Press the "=" button to obtain the result.
+5. Use the "CE" button to clear the input field.<br>
+6. Enjoy calculating with a simple and intuitive interface!<br>
 
 ## Contributing 🤝
 
