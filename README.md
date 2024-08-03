@@ -1,6 +1,6 @@
 # 🧮 Simple GUI Calculator 
 
-## Table of Contents
+## Table of Contents 📚
 - [Overview](#overview-)
 - [Features](#features-)
 - [Requirements](#requirements)
