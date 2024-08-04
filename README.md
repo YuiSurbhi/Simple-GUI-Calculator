@@ -13,9 +13,9 @@
 
 ## Overview 📖
 
-This is a simple calculator application created using Python's <code>tkinter</code> library. It features basic arithmetic operations including addition, subtraction, multiplication, and division. The calculator is designed with a modern UI, allowing users to interact with a text display and buttons for input.<br>
+- This is a simple calculator application created using Python's <code>tkinter</code> library. It features basic arithmetic operations including addition, subtraction, multiplication, and division. The calculator is designed with a modern UI, allowing users to interact with a text display and buttons for input.<br>
 
-A graphical user interface (GUI) calculator application built using Python and Tkinter.<br>
+- A graphical user interface (GUI) calculator application built using Python and Tkinter.<br>
 
 ## Features ✨
 
