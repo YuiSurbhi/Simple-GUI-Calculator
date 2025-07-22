@@ -78,11 +78,6 @@ Make sure you have the following installed on your machine:<br>
 
 ◻️ **Font and Colors:** Customize the font and colors of the buttons and display box by modifying the *'font'* and *'bg'* properties in the code.<br>
 ◻️ **Layout:** Adjust the layout by modifying the grid configuration and frame properties.<br>
-
-## Screenshot 
-
- Here is the screenshot of the application in action:<br>
-
  
 ---
 
